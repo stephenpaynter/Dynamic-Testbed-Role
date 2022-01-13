@@ -1,0 +1,144 @@
+devices:
+  R1:
+    connections:
+      cli:
+        ip: 192.168.1.93
+        protocol: ssh
+    credentials:
+      default:
+        password: cisco
+        username: cisco
+      enable:
+        password: cisco
+    os: ios
+    type: ios
+  R2:
+    connections:
+      cli:
+        ip: 192.168.1.72
+        protocol: ssh
+    credentials:
+      default:
+        password: cisco
+        username: cisco
+      enable:
+        password: cisco
+    os: ios
+    type: ios
+  R3:
+    connections:
+      cli:
+        ip: 192.168.1.159
+        protocol: ssh
+    credentials:
+      default:
+        password: cisco
+        username: cisco
+      enable:
+        password: cisco
+    os: ios
+    type: ios
+  R4:
+    connections:
+      cli:
+        ip: 192.168.1.95
+        protocol: ssh
+    credentials:
+      default:
+        password: cisco
+        username: cisco
+      enable:
+        password: cisco
+    os: ios
+    type: ios
+  R5:
+    connections:
+      cli:
+        ip: 192.168.1.223
+        protocol: ssh
+    credentials:
+      default:
+        password: cisco
+        username: cisco
+      enable:
+        password: cisco
+    os: ios
+    type: ios
+  R6:
+    connections:
+      cli:
+        ip: 192.168.1.97
+        protocol: ssh
+    credentials:
+      default:
+        password: cisco
+        username: cisco
+      enable:
+        password: cisco
+    os: ios
+    type: ios
+  R8:
+    connections:
+      cli:
+        ip: 192.168.1.202
+        protocol: ssh
+    credentials:
+      default:
+        password: cisco
+        username: cisco
+      enable:
+        password: cisco
+    os: ios
+    type: ios
+  SW1:
+    connections:
+      cli:
+        ip: 192.168.1.175
+        protocol: ssh
+    credentials:
+      default:
+        password: cisco
+        username: cisco
+      enable:
+        password: cisco
+    os: ios
+    type: ios
+  SW2:
+    connections:
+      cli:
+        ip: 192.168.1.173
+        protocol: ssh
+    credentials:
+      default:
+        password: cisco
+        username: cisco
+      enable:
+        password: cisco
+    os: ios
+    type: ios
+  BB1:
+    connections:
+      cli:
+        ip: 192.168.1.162
+        protocol: ssh
+    credentials:
+      default:
+        password: cisco
+        username: cisco
+      enable:
+        password: cisco
+    os: ios
+    type: ios
+  BB2:
+    connections:
+      cli:
+        ip: 192.168.1.167
+        protocol: ssh
+    credentials:
+      default:
+        password: cisco
+        username: cisco
+      enable:
+        password: cisco
+    os: ios
+    type: ios
