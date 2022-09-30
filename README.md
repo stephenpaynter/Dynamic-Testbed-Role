@@ -1,3 +1,5 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/stephenpaynter/Dynamic-Testbed)
+
 # Generate a Cisco pyATS/Genie Testbed file from an Ansible inventory
 
 Create pyATS/Genie testbed files from pre-configured Ansible Inventories. If you've already configured and created Ansible Inventory files then this code will allow you to pull all the required data from these files and populate the data into a pyATS/Genie Testbed file.
@@ -56,5 +58,3 @@ Any bug reports, etc., please create an issue against this repository.
 
 # Cisco Developer Code Exchange
 This repo has been submited to the Cisco Developer Code Exchange.
-
-[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/stephenpaynter/Dynamic-Testbed)
